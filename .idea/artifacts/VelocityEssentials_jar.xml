@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VelocityEssentials:jar">
+    <output-path>$PROJECT_DIR$/../Push</output-path>
+    <root id="archive" name="VelocityEssentials.jar">
+      <element id="module-output" name="VelocityEssentials" />
+    </root>
+  </artifact>
+</component>
